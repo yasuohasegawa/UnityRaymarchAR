@@ -7,7 +7,7 @@ Unity ARKit Plugin:<br>
 ・1.0.9<br>
 <br>
 Editor Version:<br>
-・Unity 2017.3.0f3
+・Unity 2017.3.0f3<br>
 <br>
 Device Testing:<br>
 ・Tested on iphone6s and iphoneXS Max<br>
