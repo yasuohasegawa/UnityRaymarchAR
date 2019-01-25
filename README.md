@@ -3,6 +3,9 @@ This project is an example code of raymarching in ARKit environment.<br>
 You might think that the performance will hit the low FPS, but it is not. <br>
 <br>
 
+![Screenshot](screen.gif)
+
+<br>
 Unity ARKit Plugin:<br>
 ・1.0.9<br>
 <br>
